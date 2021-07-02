@@ -3,8 +3,8 @@
   "description": "FolderClone - A project that allows you copy large folders to Shared Drives.",
   "repository": "https://github.com/Naveengnn/FolderClone-HRKBot/",
   "keywords": ["folderclone"],
-  "success_url": "https://telegram.dog/zero_clone_bot",
-  "website": "https://github.com/Zero-The-Kamisama/FolderClone-HRKBot", 
+  "success_url": "https://telegram.dog/AudiOnabot",
+  "website": "https://github.com/Naveengnn/FolderClone-HRKBot", 
   "addons": [],
   "buildpacks": [],
   "formation": {
