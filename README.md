@@ -23,7 +23,7 @@ YOUR_REPOSITORY_NAME - Replace this with your github repository name.
 6. Push the files to your github repository.
 7. Use `Deploy To Heroku Button`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Naveengnn/FolderClone-HRKBot/tree/master)
 
 
 ## Usage in telegram bot
